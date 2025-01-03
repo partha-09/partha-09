@@ -1,4 +1,4 @@
-<img src="https://github.com/partha-09/partha-09/blob/main/banner.jfif" alt="logo" style="width: 100%; height: 320px;">
+<img src="https://github.com/partha-09/partha-09/blob/main/banner.jfif" alt="logo" style="width: 100%; height: 200px;">
 <h1 align="center">Hi 👋, I'm Siddappa Godi</h1>
 <h3 align="center">A passionate Back-end developer from India</h3>
 <img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
