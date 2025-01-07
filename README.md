@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=partha-09&label=Profile%20views&color=0e75b6&style=flat" alt="partha-09" /> </p>
 
-- 🌱 I’m currently learning **Back-end Development**
+- 🌱 I’m currently learning **Back-end Frameworks**
 
 - 💬 Ask me about **Core Java, JEE, Spring Boot, ReactJS, MySQL,Python,Django and Front-end Development.**
 
